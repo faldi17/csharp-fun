@@ -1,0 +1,14 @@
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/bin/Debug/net9.0/HelloCSharp
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/bin/Debug/net9.0/HelloCSharp.deps.json
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/bin/Debug/net9.0/HelloCSharp.runtimeconfig.json
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/bin/Debug/net9.0/HelloCSharp.dll
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/bin/Debug/net9.0/HelloCSharp.pdb
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/obj/Debug/net9.0/HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/obj/Debug/net9.0/HelloCSharp.AssemblyInfoInputs.cache
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/obj/Debug/net9.0/HelloCSharp.AssemblyInfo.cs
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/obj/Debug/net9.0/HelloCSharp.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/obj/Debug/net9.0/HelloCSharp.dll
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/obj/Debug/net9.0/refint/HelloCSharp.dll
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/obj/Debug/net9.0/HelloCSharp.pdb
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/obj/Debug/net9.0/HelloCSharp.genruntimeconfig.cache
+/Users/macbook/Documents/Belajar C# Dasar/HelloCSharp/obj/Debug/net9.0/ref/HelloCSharp.dll
