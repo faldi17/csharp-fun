@@ -12,20 +12,20 @@ Learning C# and .NET (ASP.NET Core) on macOS using Visual Studio Code. Perfect f
 dotnet --version
 ```
 
+## Clone the project
 ```bash
-# Clone the project
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/faldi17/csharp-fun.git
 ```
 
+## Go into the project folder
 ```bash
-# Go into the project folder
-cd repo-name
+cd csharp-fun
 ```
 
+## Run the app
 ```bash
-# Run the app
 dotnet run
 ```
 
-# If no errors appear, your app should be running in the terminal.
-# Learn more at https://learn.microsoft.com/dotnet
+If no errors appear, your app should be running in the terminal.
+Learn more at https://learn.microsoft.com/dotnet
