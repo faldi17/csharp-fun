@@ -3,22 +3,22 @@
 This repository is for learning C# and .NET (ASP.NET Core) on macOS using Visual Studio Code. Perfect for beginners who want to start backend development with .NET.
 
 ```bash
-# 1. Make sure you have installed:
+# Install the required tools first:
 # - Visual Studio Code: https://code.visualstudio.com/
 # - .NET SDK: https://dotnet.microsoft.com/en-us/download
-# - C# extension in VS Code (publisher: ms-dotnettools)
+# - C# extension for VS Code (publisher: ms-dotnettools)
 
-# 2. Check your .NET version
+# Check .NET version
 dotnet --version
 
-# 3. Clone this repository
+# Clone the project
 git clone https://github.com/username/repo-name.git
 
-# 4. Navigate into the project folder
+# Go into the project folder
 cd repo-name
 
-# 5. Run the project
+# Run the app
 dotnet run
 
-# If there are no errors, the app will run directly in the terminal.
-# Official documentation: https://learn.microsoft.com/dotnet
+# If no errors appear, your app should be running in the terminal.
+# Learn more at https://learn.microsoft.com/dotnet
