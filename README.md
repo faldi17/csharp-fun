@@ -1,14 +1,14 @@
 # 🚀 Learning C# and .NET on macOS with VS Code
 
-This repository is for learning C# and .NET (ASP.NET Core) on macOS using Visual Studio Code. Perfect for beginners who want to start backend development with .NET.
+Learning C# and .NET (ASP.NET Core) on macOS using Visual Studio Code. Perfect for beginners who want to start backend development with .NET.
 
-# Install the required tools first:
-# - Visual Studio Code: https://code.visualstudio.com/
-# - .NET SDK: https://dotnet.microsoft.com/en-us/download
-# - C# extension for VS Code (publisher: ms-dotnettools)
+## Install the required tools first:
+- Visual Studio Code: https://code.visualstudio.com/
+- .NET SDK: https://dotnet.microsoft.com/en-us/download
+- C# extension for VS Code (publisher: ms-dotnettools)
 
+## Check .NET version
 ```bash
-# Check .NET version
 dotnet --version
 ```
 
